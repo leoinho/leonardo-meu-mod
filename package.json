@@ -1,0 +1,19 @@
+{
+  "name": "leonardo-meu-modulo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoinho/leonardo-meu-mod.git"
+  },
+  "author": "Leonardo Menezes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leoinho/leonardo-meu-mod/issues"
+  },
+  "homepage": "https://github.com/leoinho/leonardo-meu-mod#readme"
+}
