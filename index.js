@@ -1,3 +1,3 @@
-mudule.exports = function(str) {
+export function LeoModulo(str) {
   return str + " - LeoModulo!";
-};
+}
